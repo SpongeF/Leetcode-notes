@@ -20,3 +20,4 @@
 3. git add .
 4. git commit -m '注释'
 5. git push
+6. git checkout master (切换回主分支)
